@@ -1,2 +1,2 @@
 # git-demo
-This is the first step into the git learning program.
+Esta es la edición del master, para posteriormente hacer un non-fast forward y unirlo con la canción traducida completamente..
